@@ -1,2 +1,3 @@
 # GitRepo002
-tweede git project
+tweede git project 
+dit is een bestand met uitleg
